@@ -1,2 +1,5 @@
 # mixing-pond
-learn about mixing markdown and lilypond
+This was originally a LilyPond Project.
+
+I am hijacking it for a markdown placeholder
+
