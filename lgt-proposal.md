@@ -35,7 +35,7 @@
 
 ## Sample Exercise (Chapter 6: Mastering Core Legato Techniques)
 
-![Figure 6.4](/Users/fredanderson/Coding/mixing-pond/mixing-pond/images/fig-6-4.png)
+![Figure 6.4](./images/fig-6-4.png)
 
 Exercise 6.4: Combing Hammer-on, Pull-off, and slide Combination
 
