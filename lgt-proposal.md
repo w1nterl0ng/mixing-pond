@@ -19,31 +19,30 @@
 
 ## Chapter Outline
 1. Introduction to Legato Playing
-2. Understanding and Applying Intervals
-3. Mapping the Fretboard Through Intervallic Combinations
-4. Mastering Core Legato Techniques
-5. Advanced Legato Applications
-6. Rhythm and Timing in Legato Phrases
-7. Crafting Solos: Major Key Exploration
-8. Crafting Solos: Minor Key Mastery
-9. Crafting Solos: Blending Major and Minor
-10. Crafting Solos: Advanced Concepts
-11. Composing Your Own Legato Solos
-12. Conclusion and Further Study
+1. Understanding and Applying Intervals
+1. Applying Major Intervalic Shapes
+1. Applying Minor Intervalic Shapes
+1. Mapping the Fretboard Through Intervallic Combinations
+1. Mastering Core Legato Techniques
+1. Advanced Legato Applications
+1. Rhythm and Timing in Legato Phrases
+1. Crafting Solos: Major Key Exploration
+1. Crafting Solos: Minor Key Mastery
+1. Crafting Solos: Blending Major and Minor
+1. Crafting Solos: Advanced Concepts
+1. Composing Your Own Legato Solos
+1. Conclusion and Further Study
 
-## Sample Exercise (Chapter 4: Mastering Core Legato Techniques)
+## Sample Exercise (Chapter 6: Mastering Core Legato Techniques)
 
-[Insert TAB diagram here]
+![Figure 6.4](/Users/fredanderson/Coding/mixing-pond/mixing-pond/images/fig-6-4.png)
 
-Exercise 4.1: Basic Hammer-on and Pull-off Combination
-1. Place your index finger on the 5th fret of the 3rd string (C note)
-2. Hammer-on to the 7th fret with your ring finger (D note)
-3. Pull-off back to the 5th fret
-4. Repeat this pattern, gradually increasing speed
-5. Practice this exercise for 5 minutes daily for smooth execution
+Exercise 6.4: Combing Hammer-on, Pull-off, and slide Combination
+
+Next, we use slides to make a linear shift. We start in the seventh (VII) position, slide up to the ninth (IX).  Then back to the VII and finally end on the sixth (VI) position.
 
 ## Why This Book is Needed
-While many guitar instruction books touch on legato techniques, few offer a comprehensive system for mastering and applying these techniques across the entire fretboard. This book fills that gap, providing a structured approach to developing fluid, musical legato playing that can be applied to any style of guitar music. The unique interval-based approach offers guitarists a new perspective on fretboard navigation and legato playing.
+While many guitar instruction books touch on legato techniques, few offer a comprehensive system for mastering and applying these techniques across the entire fretboard. This book fills that gap by introducing a unique approach to linear fretboard connection, focusing on horizontal movement across strings to create fluid, uninterrupted phrases. The interval-based method presented here enables guitarists to break free from conventional box patterns, offering a new perspective on fretboard navigation that is often overlooked in traditional guitar education. By bridging the gap between theory and practice, this book provides a structured approach to developing a smooth, legato style applicable to any genre, transforming players' understanding of the fretboard into tangible improvements in their playing and opening up new creative possibilities for soloing and improvisation.
 
 ## About the Author
 Fred Anderson is a veteran guitarist and educator with over 30 years of professional playing and teaching experience. He has authored seven transcription books published by industry leaders Hal Leonard and Cherry Lane, demonstrating his expertise in breaking down complex guitar techniques. Fred's extensive background in performance and instruction has allowed him to develop and refine the unique approach to legato playing presented in this book, making him ideally suited to guide guitarists in mastering this essential technique.
